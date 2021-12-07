@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Orlandoesol/theme_t-shirt_store/static/css/main.797de5de.chunk.css",
+    "main.js": "/Orlandoesol/theme_t-shirt_store/static/js/main.a3d552c9.chunk.js",
+    "main.js.map": "/Orlandoesol/theme_t-shirt_store/static/js/main.a3d552c9.chunk.js.map",
+    "runtime-main.js": "/Orlandoesol/theme_t-shirt_store/static/js/runtime-main.370a0078.js",
+    "runtime-main.js.map": "/Orlandoesol/theme_t-shirt_store/static/js/runtime-main.370a0078.js.map",
+    "static/css/2.c1256375.chunk.css": "/Orlandoesol/theme_t-shirt_store/static/css/2.c1256375.chunk.css",
+    "static/js/2.70024a2a.chunk.js": "/Orlandoesol/theme_t-shirt_store/static/js/2.70024a2a.chunk.js",
+    "static/js/2.70024a2a.chunk.js.map": "/Orlandoesol/theme_t-shirt_store/static/js/2.70024a2a.chunk.js.map",
+    "index.html": "/Orlandoesol/theme_t-shirt_store/index.html",
+    "static/css/2.c1256375.chunk.css.map": "/Orlandoesol/theme_t-shirt_store/static/css/2.c1256375.chunk.css.map",
+    "static/css/main.797de5de.chunk.css.map": "/Orlandoesol/theme_t-shirt_store/static/css/main.797de5de.chunk.css.map",
+    "static/js/2.70024a2a.chunk.js.LICENSE.txt": "/Orlandoesol/theme_t-shirt_store/static/js/2.70024a2a.chunk.js.LICENSE.txt",
+    "static/media/camisetas.module.css": "/Orlandoesol/theme_t-shirt_store/static/media/banner-second.389a3430.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.370a0078.js",
+    "static/css/2.c1256375.chunk.css",
+    "static/js/2.70024a2a.chunk.js",
+    "static/css/main.797de5de.chunk.css",
+    "static/js/main.a3d552c9.chunk.js"
+  ]
+}
