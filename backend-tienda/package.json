@@ -1,4 +1,5 @@
 {
+  "homepage": " https://github.com/Orlandoesol/theme_t-shirt_store",
   "name": "servidor-tienda",
   "version": "1.0.0",
   "description": "",
@@ -6,7 +7,9 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "nodemon app.js",
-    "devbabel": "nodemon app.js --exec babel-node"
+    "devbabel": "nodemon app.js --exec babel-node",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "keywords": [],
   "author": "",
@@ -25,6 +28,7 @@
     "@babel/core": "^7.16.0",
     "@babel/node": "^7.16.0",
     "@babel/preset-env": "^7.16.4",
-    "babel-cli": "^6.26.0"
+    "babel-cli": "^6.26.0",
+    "gh-pages": "^3.2.3"
   }
 }
